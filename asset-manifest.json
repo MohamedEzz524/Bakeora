@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/Bakeora/static/css/main.af877cc6.css",
+    "main.js": "/Bakeora/static/js/main.c7dc7fc6.js",
+    "static/media/bak1.jpg": "/Bakeora/static/media/bak1.278965ba445388720019.jpg",
+    "static/media/Alegreya-SemiBold.ttf": "/Bakeora/static/media/Alegreya-SemiBold.4bd307919961ea18758f.ttf",
+    "static/media/Alegreya-Bold.ttf": "/Bakeora/static/media/Alegreya-Bold.fecb3dbaee19b155da98.ttf",
+    "static/media/Alegreya-Medium.ttf": "/Bakeora/static/media/Alegreya-Medium.f0c5ce507375a408fdc9.ttf",
+    "static/media/Alegreya-Regular.ttf": "/Bakeora/static/media/Alegreya-Regular.db2e14b385ae45afd806.ttf",
+    "static/media/AlegreyaSans-Bold.ttf": "/Bakeora/static/media/AlegreyaSans-Bold.25c088668653c3649ff0.ttf",
+    "static/media/AlegreyaSans-Medium.ttf": "/Bakeora/static/media/AlegreyaSans-Medium.8af01fa4b44210bab0e7.ttf",
+    "static/media/AlegreyaSans-Regular.ttf": "/Bakeora/static/media/AlegreyaSans-Regular.1700f08d80abc337986e.ttf",
+    "static/media/how33.jpg": "/Bakeora/static/media/how33.d00ad5be7c07eddf29ce.jpg",
+    "static/media/b1.jpg": "/Bakeora/static/media/b1.ed25c7587f099684d6ff.jpg",
+    "static/media/Bakeora-org.png": "/Bakeora/static/media/Bakeora-org.55e1d0f0d467a1a30fd3.png",
+    "static/media/location11.jpg": "/Bakeora/static/media/location11.09c6f20de8a27c767b8f.jpg",
+    "static/media/about-11.jpg": "/Bakeora/static/media/about-11.20d57c77151468b07928.jpg",
+    "static/media/how22.jpg": "/Bakeora/static/media/how22.867155e9a43dd03304af.jpg",
+    "static/media/how11.jpg": "/Bakeora/static/media/how11.c268dae7cad30da17613.jpg",
+    "static/media/location.jpg": "/Bakeora/static/media/location.106ba96e17a07b8ca80c.jpg",
+    "static/media/bak3.jpg": "/Bakeora/static/media/bak3.55077adfb74efcf68b10.jpg",
+    "static/media/home_about11.jpg": "/Bakeora/static/media/home_about11.1ec308c0032804814233.jpg",
+    "static/media/bak12.jpg": "/Bakeora/static/media/bak12.ab842828c4dff5e571c2.jpg",
+    "static/media/Logo.png": "/Bakeora/static/media/Logo.7058197a977959864500.png",
+    "static/media/home_about.jpg": "/Bakeora/static/media/home_about.7c3b26e2206d9d957aa3.jpg",
+    "static/media/how3.jpg": "/Bakeora/static/media/how3.2ddd5e30717dce1bb8f2.jpg",
+    "static/media/how1.jpg": "/Bakeora/static/media/how1.a6045fd10c64f3f34f6a.jpg",
+    "static/media/about-1.jpg": "/Bakeora/static/media/about-1.7c1574739dc85808be6a.jpg",
+    "static/media/how2.jpg": "/Bakeora/static/media/how2.927a9633ab541a0269e4.jpg",
+    "static/media/bak6.webp": "/Bakeora/static/media/bak6.fc0c0bd8c34db83d05b6.webp",
+    "static/media/b9.jpg": "/Bakeora/static/media/b9.6931daa70d0e712f6069.jpg",
+    "static/media/b8.png": "/Bakeora/static/media/b8.384be2af072e280e59ae.png",
+    "index.html": "/Bakeora/index.html",
+    "main.af877cc6.css.map": "/Bakeora/static/css/main.af877cc6.css.map",
+    "main.c7dc7fc6.js.map": "/Bakeora/static/js/main.c7dc7fc6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af877cc6.css",
+    "static/js/main.c7dc7fc6.js"
+  ]
+}
