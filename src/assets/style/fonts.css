@@ -1,0 +1,51 @@
+@font-face {
+  font-family: "Alegreya";
+  src: url("../fonts/Alegreya/Alegreya-Regular.ttf");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Alegreya";
+  src: url("../fonts/Alegreya/Alegreya-Medium.ttf");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Alegreya";
+  src: url("../fonts/Alegreya/Alegreya-SemiBold.ttf");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Alegreya";
+  src: url("../fonts/Alegreya/Alegreya-Bold.ttf");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+/* Alegreya Sans */
+
+@font-face {
+  font-family: "Alegreya Sans";
+  src: url("../fonts/Alegreya_Sans/AlegreyaSans-Bold.ttf");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Alegreya Sans";
+  src: url("../fonts/Alegreya_Sans/AlegreyaSans-Medium.ttf");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Alegreya Sans";
+  src: url("../fonts/Alegreya_Sans/AlegreyaSans-Regular.ttf");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
