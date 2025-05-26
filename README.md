@@ -3,8 +3,6 @@
 ```markdown
 # Bakeora Baking Shop
 
-![Project Screenshot](./src/assets/projects/bakeora-large.png)
-
 A visually engaging bakery website with nested routing, blog integration, and search navigation.
 
 ## Key Features
@@ -18,9 +16,7 @@ A visually engaging bakery website with nested routing, blog integration, and se
 - React
 - React Router v6
 - Tailwind CSS
-- Context API (if used)
 
 ## Live Demo
 [Visit Bakeora](https://mohamedezz524.github.io/Bakeora/)
 
-[... rest same structure ...]
